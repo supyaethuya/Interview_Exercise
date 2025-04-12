@@ -1,3 +1,8 @@
+# This is the Interview Exercise
+
+This project is based on the Open day of Cardiff uni which provides the Topics and Programs included on that day along with the Map for each programs location. Moreover, searching and sorting allows the user for better efficiency and organization.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
